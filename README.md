@@ -1,5 +1,8 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
+
+// Got the file from GitHub.
+
 # Project Summary
 
 In this project, we'll provide practice JavaScript problems to help you better understand `Objects`.
